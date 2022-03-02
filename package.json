@@ -1,0 +1,22 @@
+{
+  "name": "chordspawner-production",
+  "version": "1.0.0",
+  "description": "production version of chordspawner",
+  "main": "assemble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanZaion/chordspawner-production.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Jan Zaion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanZaion/chordspawner-production/issues"
+  },
+  "homepage": "https://github.com/JanZaion/chordspawner-production#readme"
+}
